@@ -19,7 +19,7 @@ Este projeto é uma aplicação **React** com **TypeScript** utilizando **Vite**
   cd seu-repositorio
 ```
 
-### 🔹 **2. Intalação das dependências**
+### 🔹 **2. Instalação das dependências**
 ```sh
   bun install
 ```
